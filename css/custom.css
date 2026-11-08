@@ -3,3 +3,6 @@
 
 /* 2026-11 feedback */
 .district-tabs{grid-template-columns:repeat(5,minmax(0,1fr))}.place-info .place-tags{font-weight:600;color:#526f86}.place-info .place-hours{font-size:13px;color:#4d6070}.map-links{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}.place-info .map-links a{border:1px solid #dce5eb;border-radius:9px;padding:9px 11px;margin:0;background:#f8fafc;font-size:12px}.place-info .map-links a:hover{background:#e7f1f4}@media(max-width:600px){.district-tabs{gap:4px}.tab{font-size:11px;padding:11px 1px}.place-info .map-links a{font-size:11px;padding:8px}.place-info .place-hours{font-size:12px}}
+
+/* Place cards: no photo or placeholder area */
+.place-card{display:block;padding:20px 22px}.place-info{padding:0;width:100%}.place-info .map-links{margin-top:12px}@media(max-width:600px){.place-card{padding:17px}.place-info{padding:0}}
