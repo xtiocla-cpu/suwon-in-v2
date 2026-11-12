@@ -23,3 +23,5 @@
 .main-card:focus-visible{outline:3px solid #748dae;outline-offset:3px}
 @media(max-width:600px){.landing-hero{width:calc(100% - 24px);margin-top:12px;border-radius:22px;padding:58px 16px 63px}.hero-bubbles i:nth-child(1){width:270px;left:-160px;bottom:-145px}.hero-bubbles i:nth-child(2){width:280px;right:-195px;top:-130px}.hero-bubbles i:nth-child(3){width:210px;right:-130px;bottom:-145px}.hero-bubbles i:nth-child(4){width:75px;left:9%;top:12%}.hero-bubbles i:nth-child(5){width:150px;left:29%;bottom:-115px}}
 @media(prefers-reduced-motion:reduce){.main-card{transition:none}}
+
+.places-disclaimer{font-size:13px;line-height:1.75;color:#526b80;background:#f0f6f8;border-radius:12px;padding:14px 16px;margin:0 0 24px;border:1px solid #e1ebf0}
