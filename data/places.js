@@ -478,5 +478,101 @@ window.SUWON_PLACES = [
     "hours": "수~일 14:30~21:00 · 월·화 휴무",
     "naverUrl": "https://naver.me/GgWEpudo",
     "image": ""
+  },
+  {
+    "id": "added20261112b_01",
+    "name": "우리가사랑하는동네 매탄지점",
+    "district": "영통구",
+    "neighborhood": "매탄동",
+    "address": "",
+    "category": "카페",
+    "description": "#과일빙수",
+    "hours": "평일 11:30~23:00 · 주말 12:00~23:00",
+    "naverUrl": "https://naver.me/xafLuIjU",
+    "image": ""
+  },
+  {
+    "id": "added20261112b_02",
+    "name": "대길소금구이",
+    "district": "장안구",
+    "neighborhood": "영화동",
+    "address": "",
+    "category": "맛집",
+    "description": "#육류·고기요리",
+    "hours": "평일 16:00~22:00 · 토요일 12:00~22:00 · 일요일 휴무",
+    "naverUrl": "https://naver.me/GprHc9ye",
+    "image": ""
+  },
+  {
+    "id": "added20261112b_03",
+    "name": "가마솥용형순대국",
+    "district": "장안구",
+    "neighborhood": "정자동",
+    "address": "",
+    "category": "맛집",
+    "description": "#순대·순댓국",
+    "hours": "월~토 10:00~22:00 · 일요일 휴무",
+    "naverUrl": "https://naver.me/5suF3qfg",
+    "image": ""
+  },
+  {
+    "id": "added20261112b_04",
+    "name": "오향한방족발",
+    "district": "장안구",
+    "neighborhood": "정자동",
+    "address": "",
+    "category": "맛집",
+    "description": "#족발·보쌈",
+    "hours": "",
+    "naverUrl": "https://naver.me/5fdYs1sA",
+    "image": ""
+  },
+  {
+    "id": "added20261112b_05",
+    "name": "백암순대",
+    "district": "권선구",
+    "neighborhood": "권선동",
+    "address": "",
+    "category": "맛집",
+    "description": "#족발·보쌈·순대 #평점 4.3",
+    "hours": "매일 08:00~23:00",
+    "naverUrl": "https://naver.me/Gsj2MbjB",
+    "image": ""
+  },
+  {
+    "id": "added20261112b_06",
+    "name": "무진막창",
+    "district": "장안구",
+    "neighborhood": "조원동",
+    "address": "",
+    "category": "맛집",
+    "description": "#곱창·막창·양",
+    "hours": "매일 08:00~23:00",
+    "naverUrl": "https://naver.me/xxo90q8s",
+    "image": ""
+  },
+  {
+    "id": "added20261112b_07",
+    "name": "파나시아 커피 로스팅",
+    "district": "장안구",
+    "neighborhood": "송죽동",
+    "address": "",
+    "category": "카페",
+    "description": "#카페·디저트",
+    "hours": "화~토 11:00~21:00 · 일요일 11:00~20:00 · 월요일 휴무",
+    "naverUrl": "https://naver.me/Frit42mb",
+    "image": ""
+  },
+  {
+    "id": "added20261112b_08",
+    "name": "뼈다귀진국",
+    "district": "장안구",
+    "neighborhood": "정자동",
+    "address": "",
+    "category": "맛집",
+    "description": "#감자탕",
+    "hours": "목~화 07:30~22:00 (브레이크 타임 15:30~16:30) · 수요일 휴무",
+    "naverUrl": "https://naver.me/54KwNVv4",
+    "image": ""
   }
 ];

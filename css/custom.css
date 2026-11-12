@@ -37,3 +37,17 @@
 .place-search-wrap input::placeholder{color:#82919e}
 .place-search-wrap button{position:absolute;right:9px;top:50%;transform:translateY(-50%);background:#edf3f7;border:0;border-radius:8px;color:#50677c;padding:7px 10px;font-size:12px}
 .place-search-wrap button[hidden]{display:none}
+
+/* Mobile search: keep Korean text legible, avoid clipped/overlapping placeholder */
+.place-search-wrap{min-width:0;max-width:100%}
+.place-search-wrap input{box-sizing:border-box;min-width:0;letter-spacing:-.025em;text-overflow:ellipsis;white-space:nowrap;overflow:hidden}
+@media(max-width:600px){
+ .place-search-wrap input{font-size:13px;letter-spacing:-.045em;padding:12px 62px 12px 12px;min-height:46px}
+ .place-search-wrap button{right:7px;padding:6px 8px;font-size:11px;white-space:nowrap}
+ .place-search-wrap input::placeholder{font-size:13px;letter-spacing:-.045em}
+}
+@media(max-width:360px){
+ .place-search-wrap input{font-size:12px;padding-left:10px;padding-right:54px}
+ .place-search-wrap input::placeholder{font-size:12px}
+ .place-search-wrap button{font-size:10px;padding:6px}
+}
